@@ -1,0 +1,45 @@
+body {
+    background-color:lightpink;
+  }
+
+div {
+    border: 2px solid rgb(40, 160, 130);
+    padding: 5px;
+    margin: 12px;
+    outline-style: double;
+  }
+
+header {
+    font-family: 'Courier New';
+    font-size: 30px;
+    padding-left: 15px;
+}
+.profile-image {
+    width: 125px;
+    padding: 0px;
+}
+
+h4 {
+    font-family: 'Helvetica';
+    font-style: rgb(149, 98, 106);
+}
+
+p {
+    font-family: 'Times New Roman';
+}
+
+aside {
+    padding-left: 15px;
+}
+
+footer {
+    padding-left: 15px;
+}
+
+.foto-box {
+    width: 135px;
+    padding: 0px;
+    border: 5px solid rgb(85, 225, 148);
+    margin: 15px;
+    outline-style: none;
+}

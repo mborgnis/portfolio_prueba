@@ -1,35 +1,22 @@
 body {
-    background-color: rgb(95, 171, 135);
-  }
-
-header {
-    font-family:'Franklin Gothic Medium';
-    font-size: 30px;
-    padding-left: 15px;
+  background-color: rgb(95, 171, 135);
 }
 
-.profile-image {
-    width: 125px;
-    padding: 0px;
+header {
+  font-family:'Franklin Gothic Medium';
+  font-size: 30px;
+  padding-left: 15px;
+}
+
+.foto-perfil {
+  width: 115px;
+  padding: 25px;
 }
 
 p {
-    font-family: 'Times New Roman';
+  font-family: 'Times New Roman';
 }
 
-#foto-box {
-    width: 135px;
-    padding: 0px;
-    border: 5px solid teal;
-    margin: 15px;
-    outline-style: none;
+div {
+  border-radius: 15px;
 }
-
-nav {
-  padding-left: 15px;  
-}
-
-#editar {
-    margin-left: 1em;
-    margin-bottom: 0.5em;
-  }

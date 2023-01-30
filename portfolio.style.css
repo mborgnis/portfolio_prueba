@@ -3,18 +3,18 @@ body {
 }
 
 header {
-  font-family:'Franklin Gothic Medium';
+  font-family: Tahoma;
   font-size: 30px;
   padding-left: 15px;
 }
 
 .profile-image {
-  width: 135px;
-  padding: 0px;
-  border: 5px solid teal;
-  margin: 15px;
+  width: 165px;
+  border: 7px solid teal;
+  margin: 20px;
   outline-style: none;
 }
+
 p {
   font-family: 'Times New Roman';
 }
@@ -22,3 +22,5 @@ p {
 div {
   border-radius: 15px;
 }
+
+

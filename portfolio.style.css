@@ -1,17 +1,16 @@
 body {
-  background-color: rgb(95, 171, 135);
+  background-color: rgba(102, 194, 151, 0.754);
 }
 
-header {
-  font-family: Tahoma;
-  font-size: 30px;
-  padding-left: 15px;
+.column-one{
+  margin-left: 44%;
+  margin-bottom: 25px;
 }
 
 .profile-image {
   width: 165px;
+  margin-left: -15px;
   border: 7px solid teal;
-  margin: 20px;
   outline-style: none;
 }
 
@@ -23,4 +22,8 @@ div {
   border-radius: 15px;
 }
 
-
+h1{
+  margin-left: 38%;
+  margin-bottom: 18px;
+  font-style: italic;
+}

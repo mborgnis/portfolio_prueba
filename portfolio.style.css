@@ -1,29 +1,44 @@
-body {
-  background-color: rgba(102, 194, 151, 0.754);
+body, html {
+  height: 100%;
+  background-color: rgba(36, 43, 46, 0.978);
 }
+
+.bgimg-1 {
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 50%;
+  }
 
 .column-one{
-  margin-left: 44%;
+  margin-left: 38%;
+  margin-right: 38%;
   margin-bottom: 25px;
-}
-
-.profile-image {
-  width: 165px;
-  margin-left: -15px;
-  border: 7px solid teal;
-  outline-style: none;
 }
 
 p {
   font-family: 'Times New Roman';
 }
 
-div {
-  border-radius: 15px;
+h1{
+  font-style: italic;
 }
 
-h1{
-  margin-left: 38%;
-  margin-bottom: 18px;
-  font-style: italic;
+.img{
+  width: 125px;
+  height: 150px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-radius: 25%;
+}
+
+section{
+  margin-left: 35px;
+  margin-right: 750px;
+}
+
+footer{
+  padding: 15px;
+  box-sizing: content-box;
 }

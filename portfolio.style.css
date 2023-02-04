@@ -9,12 +9,14 @@ body, html {
   background-repeat: no-repeat;
   background-size:cover;
   height: 50%;
+  padding: 50px;
   }
 
 .column-one{
   margin-left: 38%;
   margin-right: 38%;
   margin-bottom: 25px;
+  margin-top: 15px;
 }
 
 p {
@@ -26,14 +28,19 @@ h1{
 }
 
 .img{
-  width: 125px;
-  height: 150px;
-  margin-top: 8px;
-  margin-bottom: 8px;
-  border-radius: 25%;
+  width: 145px;
+  height: 175px;
+  margin-top: 4px;
+}
+
+span {
+  display: inline-block;
+  width: 165px;
+  height: 192px;
 }
 
 section{
+  margin-top: 15px;
   margin-left: 35px;
   margin-right: 750px;
 }
@@ -41,4 +48,15 @@ section{
 footer{
   padding: 15px;
   box-sizing: content-box;
+  text-align: center;
+}
+
+.fa-facebook {
+  background: #ffffff;
+  color: rgb(56, 70, 135);
+}
+
+.fa-instagram {
+  background: #ffffff;
+  color: rgb(169, 40, 102);
 }
